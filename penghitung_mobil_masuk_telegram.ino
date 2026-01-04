@@ -7,7 +7,7 @@
 #define ssid "" // GANTI USERNAME WIFI KAMU DI SINI
 #define password "" // GANTI PASSWORD KAMU DI SINI
 #define token "" // GANTI TOKEN TELEGRAM KAMU DI SINI
-#define id "" GANTI DENGAN ID TELEGRAM KAMU DI SINI
+#define id "" // GANTI DENGAN ID TELEGRAM KAMU DI SINI
 #define sensor 19
 #define led 23
 
