@@ -4,10 +4,10 @@
 #include <WiFiClientSecure.h>
 #include <WiFi.h>
 
-#define ssid "KOS KEJAWAN 24"
-#define password "cleanhouse"
-#define token "8203787836:AAHJUDxq-guMhsKaT6bRD5-QyYP5pp3-ef0"
-#define id "1473084272"
+#define ssid "" // GANTI USERNAME WIFI KAMU DI SINI
+#define password "" // GANTI PASSWORD KAMU DI SINI
+#define token "" // GANTI TOKEN TELEGRAM KAMU DI SINI
+#define id "" GANTI DENGAN ID TELEGRAM KAMU DI SINI
 #define sensor 19
 #define led 23
 
